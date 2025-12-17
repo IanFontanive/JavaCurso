@@ -1,1 +1,6 @@
-.metadata/
+# Java / Eclipse
+bin/
+*.class
+.project
+.classpath
+.settings/

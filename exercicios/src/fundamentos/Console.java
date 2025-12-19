@@ -24,7 +24,7 @@ public class Console {
 				+ " %s + %s + %s + %s + %s + %s + %s + %s + %s %n" 
 				, r, e, y, e, r, e, z, e, r, e, y, e, r);
 		
-		// tipo, variavel 
+		//tipo, variavel 
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.print("Digite o seu nick: ");
